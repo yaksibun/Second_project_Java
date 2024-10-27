@@ -1,4 +1,4 @@
-package task3;
+package first_commit.task1.task3;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package task2;
+package first_commit.task1.task2;
 
 public class triangles
 {

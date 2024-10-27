@@ -1,4 +1,4 @@
-package task2;
+package first_commit.task1.task2;
 
 public class triangle {
     public void getinfo(int a, int b, int c){

@@ -1,4 +1,4 @@
-package task1;
+package first_commit.task1;
 
 public class product2
 {
